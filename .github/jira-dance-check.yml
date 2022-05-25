@@ -1,0 +1,7 @@
+---
+enabled: ['master']
+noTicket: 'failure'
+noWorkflow: 'success'
+workflows:
+  default: 'success'
+whitelistBots: True
